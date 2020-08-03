@@ -32,6 +32,8 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="GMAIL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
 
+### Ask me why I no longer have an arctic code vault badge (It's a funny story)
+
 
 
 [currentproject]: https://github.com/DrVario/DiscoKoth
