@@ -10,7 +10,6 @@
  - My current project is a [moderation bot for discord servers with a king of the hill twist][currentproject] 👑
  - My current goal is to write more [articles][medium] 📓
 
-<br />
 
  ### Tools and Languages:
 
