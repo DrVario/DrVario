@@ -3,12 +3,14 @@
 ## I'm a full time student and a learning developer!
  - I really like to watch movies 🎥, my favorite is The Life Aquatic with Steve Zissou (2004) 🦈
  - My favorite sports team is MN United ⚽
- - I like to read 📚, my favorite book is Lord of the Rings series 💍
+ - I like to read 📚, my favorite book is Do androids dream of electric sheep by Philip K Dick🐑
+ - I spend a lot of time building Gundam models 🤖
+ - I paint Warhammer 40k models 🎨
  - The programming language I currently really like is Javascript 🖥️
  - I am currently working at getting my computer science bachelors degree 📜
  - Working with APIs is something I really enjoy 🔗
- - My current project is a [moderation bot for discord servers with a king of the hill twist][currentproject] 👑
- - My current goal is to write more [articles][medium] 📓
+ - My current project is a [Program to integrate twitch chat with BizHawk][currentproject] 👑
+ - My current goal is to read Catch-22 by Joseph Heller
 
 
  ### Tools and Languages:
@@ -38,7 +40,7 @@
 
 
 
-[currentproject]: https://github.com/DrVario/DiscoKoth
+[currentproject]: https://github.com/DrVario/TwitchControls
 [medium]: https://medium.com/@grantporter343
 [gmail]: mailto:grantporter343@gmail.com
 [linkedin]: https://www.linkedin.com/in/grant--porter/
