@@ -3,7 +3,7 @@
 ## I'm a full time student and a learning developer!
  - I really like to watch movies 🎥, my favorite is The Life Aquatic with Steve Zissou (2004) 🦈
  - My favorite sports team is MN United ⚽
- - I like to read 📚, my favorite book is Do androids dream of electric sheep by Philip K Dick🐑
+ - I like to read 📚, my favorite book is Do Androids Dream of Electric Sheep by Philip K Dick🐑
  - I spend a lot of time building Gundam models 🤖
  - I paint Warhammer 40k models 🎨
  - The programming language I currently really like is Javascript 🖥️
